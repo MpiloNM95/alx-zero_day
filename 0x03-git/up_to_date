@@ -1,0 +1,16 @@
+<h4>To create file and insert text directions</h4>
+
+<ul>
+<li>touch = to create the file name</li>
+<li>vi (filename) = to get into file</li>
+<li>i = insert text into file</li>
+</ul>
+<br>
+
+<h4>The git command used to update the file up_to_date from github onto local machine</h4>
+
+* cd = change directory to alx-zero_day
+* cd = change directory to 0x03-git
+* git branch -v = to which branch im currently in
+* git pull origin main = to get the updates from github page
+
